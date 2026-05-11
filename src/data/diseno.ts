@@ -48,7 +48,7 @@ export const disenoData: DisenoData = {
       title: 'Microsite Deluxe',
       color: '#00b1bc',
       lista: [
-          'Hosting Lite Incluido',
+          'Hosting Deluxe Incluido',
           'Certificado SSL',
           'Dominio GRATIS en extensión .COM ó .COM.MX*',
           'Hasta 5 secciones',
