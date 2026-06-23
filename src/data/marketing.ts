@@ -153,7 +153,7 @@ export const marketingData: MarketingData = {
       btnColor: '#00b1bc',
     },
     {
-      title: 'Plan Crece',
+      title: 'Plan Crece + ',
       publicaciones:'($7,500 de SALDO en Google Ads)',
       precio: '$10,000',
       nota: 'MENSUAL',
